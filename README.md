@@ -6,11 +6,13 @@ Aplikasi ini dibuat ketika pkl di sekolah , teknologi yang digunakan :
 4. mysql	
 
 Login dengan hak akses Admin : 
+
 	email    : ira@gmail.com
 	password : 12345
 	
 Login  dengan hak akses user  :
-  email     :  rani@gmail.com
+
+	email     :  rani@gmail.com
 	password  : 12345
 	
 	
